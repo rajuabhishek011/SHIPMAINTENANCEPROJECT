@@ -96,11 +96,4 @@ The app utilizes a **ProtectedRoute** component to ensure that users can only ac
 
 * All data (ships, jobs, components, users) are stored in `localStorage`, which means that it persists between page reloads but does not get shared across different machines or browsers.
 
-## Contributing
-
-If you'd like to contribute to this project, feel free to fork it, make changes, and create a pull request. Any feedback or suggestions are welcome!
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
